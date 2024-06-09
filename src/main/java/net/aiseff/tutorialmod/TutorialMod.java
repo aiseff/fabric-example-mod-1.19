@@ -1,5 +1,7 @@
 package net.aiseff.tutorialmod;
 
+import net.aiseff.tutorialmod.item.ModItemGroup;
+import net.aiseff.tutorialmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -10,5 +12,7 @@ public class TutorialMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+
+		ModItems.registerModItems();
 	}
 }
