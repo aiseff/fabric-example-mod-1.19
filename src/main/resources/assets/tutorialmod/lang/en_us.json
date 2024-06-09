@@ -4,5 +4,6 @@
   "item.tutorialmod.emerald_axe": "Emerald axe",
   "item.tutorialmod.emerald_pickaxe": "Emerald pickaxe",
   "item.tutorialmod.emerald_hoe": "Emerald hoe",
-  "item.tutorialmod.emerald_crystal": "Emerald crystal"
+  "item.tutorialmod.emerald_crystal": "Emerald crystal",
+  "itemgroup.emerald_items": "Emerald items"
 }
